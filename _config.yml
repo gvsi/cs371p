@@ -14,10 +14,10 @@ description: "A blog with my progress with CS371p at UT Austin"
 author: 'Giovanni Alcantara'
 # edit 'categories' in the front matter of every post to match this username
 nickname: giovanni
-bio: 'Student'
+bio: 'CS exchange student at the University of Texas at Austin'
 location: 'Austin, TX'
-url: 'http://gvsi.github.io/cs371p'
-image: 'assets/images/casper.png'
+url: 'http://giovannialcantara.com'
+image: 'assets/images/profile.jpg'
 
 short_url: 'gvsi.github.io/cs371p/'
 #google_analytics: UA-69281367-1
