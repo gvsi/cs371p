@@ -126,18 +126,58 @@
 </ol>
 
 <h2 id="a-different-approach">A Different Approach</h2>
-<p>### Interactive
-I’ll begin by talking about the thing that shocked me the most. <strong>The interactivity of classes</strong>. Back in my home University, most lectures comprise of a lecturer who talks and an audience of students who listens. The flow is unidirectional. There is no interactivity, no dialogue. It’s a passive experience for students.</p>
 
-<p>CS 371p is designed by professor Downing to involve students in class dialogue––the structure of the class promotes discussion, students are challenged with every new concept.</p>
+<h3 id="interactive">Interactive</h3>
 
-<p>Continuous evaluation is at the heart of the course. Quizzes are scheduled daily and touch on often non-trivial concepts that have been discussed in lecture. This motivates me to gain a much deeper understanding of the subject, and decreases the chances of falling behind.</p>
+<p>I’ll begin by talking about the thing that shocked me the most. <strong>The interactivity of classes</strong>. Back in my home University, most lectures comprise of a lecturer who talks and an audience of students who listens. The flow is unidirectional. There is no interactivity, no dialogue. It’s a passive experience for students.</p>
+
+<p>CS 371p is designed by professor Downing to involve students in class dialogue–the structure of the class promotes discussion, students are challenged with every new concept.</p>
+
+<p>Continuous evaluation is at the heart of the course. Quizzes are scheduled daily and touch on often non-trivial concepts that have been discussed in class. This motivates me to gain a much deeper understanding of the subject, and decreases the chances of falling behind.</p>
 
 <h3 id="social">Social</h3>
-<p>As was mentioned in class, Computer Science students are one of the most anti-social groups in the University. Paradoxically, development teams in most companies are all designed to be collaborative environments. Effective communication is essential in creating the dynamics for the development of successful products.</p>
+<p>As was mentioned in class, Computer Science students are one of the most anti-social groups out there. Paradoxically, development teams in most tech companies are all designed to be collaborative environments. Effective communication is essential in creating the dynamics for the development of successful products.</p>
 
 <p>CS 371p aims to provide an experience that simulates as much as possible a real working environment in an academic setting. An awkward “meet-your-neighbors” moment was forced on us the first minutes of class. Projects were introduced as being meant to be worked on as pairs of students.</p>
 
+<p>This shall be fun.</p>
+
+<h3 id="modern">Modern</h3>
+<p>The problem with Computer Science class is, in most of the cases, that material becomes outdated after a few years. Teaching often falls behind the velocity with which new tools, languages, technologies and trends are being released.</p>
+
+<p>The set of development tools that we will be using is standard in the industry. Here are some examples:</p>
+
+<ul>
+  <li><strong><a href="https://www.docker.com">Docker</a></strong> is now the <em>cool</em> way to build, ship, and run applications for many teams in companies and startups;</li>
+  <li>the practice of continuous integration is now an established component of the development process, and having the opportunity to use <strong><a href="https://travis-ci.org/">Travis-CI</a></strong> in class projects is exciting.</li>
+  <li>and of course, source control with git and Github.</li>
+</ul>
+
+<h2 id="this-week">This Week</h2>
+<p>The first week of class has been mostly introductory. Most of the time I’ve spent on setting up this blog. I set up the blog Jekyll Now on Github Pages.</p>
+
+<p>While it was working great I’ve ended up with a different setup and theme:</p>
+
+<p>I’m using <strong><a href="https://github.com/biomadeira/jasper">Jasper</a></strong>, a Jekyll adaptation of one Casper, the default theme of my favourite blog platform, <a href="https://ghost.org/">Ghost</a> (check it out, it’s great and not Wordpress!). This required me to hook up the repo to my Travis-CI account. The Travis-CI script generates the HTML files and pushes them to the <code class="highlighter-rouge">gh-pages</code> branch. The reason why this is necessary is because Github doesn’t allow plugins when deploying with Github Pages for security reasons (the theme makes use of Ruby gems and scripts to build the pages).</p>
+
+<p>Here are the advantages of this setup, and why I think it’s great despite the overhead work involved:
+- No need to set up any hosting, as Github Pages can easily host it.
+- The theme is minimalistic, content-focused and without frills.
+- I can still push Markdown files to the repo to publish.
+- I got to use Travis-CI in advance, which will be useful in a few week when I will have to use it for projects.</p>
+
+<p>Here are some takeaways from this:
+- To publish a project website on Github Pages, you can create a branch called <code class="highlighter-rouge">gh-pages</code>.
+- I’ve always been using <code class="highlighter-rouge">git</code> with the terminal. I’ve started using a GUI (<a href="https://www.git-tower.com/">Tower for Mac</a>), and it’s great. It’s not as cool as using the terminal, but it saves time and it gets the job done, which is what matters.
+- You’re required to generate a secure token to put in your <code class="highlighter-rouge">.travis.yml</code> file to get Travis-CI to properly run.</p>
+
+<h2 id="next-week">Next Week</h2>
+<p>Next week I am aiming to set up my development environment. This will involve setting up my Docker container from the class image, to run a VM with all required components.</p>
+
+<p>I’ll also change my DNS setting of my domain, so that this blog can be accessed on my personal domain (http://giovannialcantara.com/cs371p).</p>
+
+<p>I also plan on doing more independent work with C++. I have used Java and C before, so conceptually I should be able to grasp it, but it will take some practice to get used to the syntax.
+Hopefully, I will be soon able to start practicing interview questions (implementation of algorithms and data structures) with C++.</p>
 
 
         </section>
