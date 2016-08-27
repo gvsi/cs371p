@@ -21,7 +21,7 @@ class: 'post-template'
 
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">{{ page.tag | capitalize }}</h1>
+            <h1 class="page-title">{{ page.title | capitalize }}</h1>
             {% if page.subtitle %}
                 <h2 class="page-description">{{ page.subtitle }}</h2>
             {% endif %}
@@ -55,7 +55,7 @@ class: 'post-template'
         <section class="post-content">
 
             {{ content }}
-            
+
         </section>
 
         <footer class="post-footer">
@@ -71,15 +71,15 @@ class: 'post-template'
 
             <section class="author">
                 <h4><a href="{{ site.baseurl }}author/{{ site.nickname }}">{{ site.author }}</a></h4>
-                
+
                 {% if site.bio %}
                     <p> {{ site.bio }}</p>
                 {% else %}
                     <p>Read <a href="{{ site.baseurl }}author/{{ site.nickname }}">more posts</a> by this author.</p>
                 {% endif %}
                 <div class="author-meta">
-                    {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %} 
-                    {% if site.url %}<span class="author-link icon-link"><a href="{{ site.url }}"> {{ site.short_url }}</a></span>{% endif %} 
+                    {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %}
+                    {% if site.url %}<span class="author-link icon-link"><a href="{{ site.url }}"> {{ site.short_url }}</a></span>{% endif %}
                 </div>
             </section>
 
@@ -100,12 +100,12 @@ class: 'post-template'
                     <span class="hidden">Google+</span>
                 </a>
             </section>
-            
+
             <!-- Add Disqus Comments -->
             {% if page.disqus %}
                 {% include disqus.html %}
             {% endif %}
-            
+
         </footer>
 
     </article>
