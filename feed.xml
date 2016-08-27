@@ -8,31 +8,30 @@
     
       
       <item>
-        <title>Test</title>
-        
-          <description>&lt;p&gt;This is just a test!&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 27 Aug 2016 13:00:00 +0000</pubDate>
-        <link>
-        http://gvsi.github.io/cs371p//test</link>
-        <guid isPermaLink="true">http://gvsi.github.io/cs371p//test</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>Week 1</title>
         
           <description>&lt;p&gt;Hello, world!&lt;/p&gt;
 
 </description>
         
-        <pubDate>Fri, 26 Aug 2016 13:00:00 +0000</pubDate>
+        <pubDate>Sat, 27 Aug 2016 13:00:00 +0000</pubDate>
         <link>
         http://gvsi.github.io/cs371p//week-one</link>
         <guid isPermaLink="true">http://gvsi.github.io/cs371p//week-one</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Nice, we&#39;re live.</title>
+        
+          <description>&lt;p&gt;Nice, we&#39;re live!&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 26 Aug 2016 13:00:00 +0000</pubDate>
+        <link>
+        http://gvsi.github.io/cs371p//test</link>
+        <guid isPermaLink="true">http://gvsi.github.io/cs371p//test</guid>
       </item>
       
     
