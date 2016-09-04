@@ -15,10 +15,34 @@
 	  <title>Week 2</title>
 	  <link>/cs371p//week-two</link>
 	  <author>Giovanni Alcantara</author>
-	  <pubDate>2016-08-27T13:00:00+00:00</pubDate>
+	  <pubDate>2016-08-27T17:00:00+00:00</pubDate>
 	  <guid>/cs371p//week-two</guid>
 	  <description><![CDATA[
-	     <p>Week two!</p>
+	     <h2 id="what-did-you-do-this-past-week">What did you do this past week?</h2>
+<p>Last week has been an introductory week, where not much was going on. It’s the end of week two now, and work is already piling up. We dived right into work. Project 1 specifications were released and the submission has been set for next week, new C++ concepts were introduced, new readings are due for next week.</p>
+
+<p>The project is what has taken most of my time this week. Not so much the algorithmic side of it. A great deal of optimizing the code really boils down to a standard dynamic programming problem, with memoization in the form of cache. What really took most of my time is the setting up the infrastructure and the whole suite of tools that accompany the task.</p>
+
+<p>These included setting up the Docker container, writing unit tests with <code class="highlighter-rouge">gtest</code> and acceptance tests, documenting the code for <code class="highlighter-rouge">doxygen</code>, make sure all the targets in the <code class="highlighter-rouge">makefile</code> are working as expected, hooking up <code class="highlighter-rouge">Travis-CI</code> with the repository, keeping the list of Github issues updated, making sure the source files have been formatted with <code class="highlighter-rouge">clang-format</code>.</p>
+
+<p>It’s been a ride, but while reviewing the files for submission I found myself with a wide smile stamped on my face.</p>
+
+<p>In class we have covered the different between <code class="highlighter-rouge">l-values</code> and <code class="highlighter-rouge">r-values</code>, exception handling with a discussion of the advantages and disadvantages between <code class="highlighter-rouge">throw</code>s, error flags in the form global variables or local variables being passed as references.</p>
+
+<h2 id="whats-in-your-way">What’s in your way?</h2>
+<p>Me. I’m in my own way.</p>
+
+<p>Working on the project, I’ve been incredibly frustrated when things would not run as expected. Getting all the tools to work is a tedious process, and thinking “Man, I could be working on some other stuff if this thing worked as expected” really gets in my head sometimes.</p>
+
+<p>I also cannot put my computer to sleep when stuff is just not working. I do realize that taking a break helps clear one’s mind, but I often find myself working until “I fix this one thing”, which eventually leads to other things breaking on the way, and being stuck in a vicious cycle.</p>
+
+<p>What I gradually learned to realize is that getting stuck is the only way to learn, and this helped me have a different approach when working.</p>
+
+<h2 id="what-will-you-do-next-week">What will you do next week?</h2>
+<p>It’s that period of the year when companies hire for summer internships. Next week I would like to start revising algorithms and data structures.</p>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+<p>Learn your regular expressions. They’re one thing thing that I constantly find using in one way or another when working on projects or programming assignments. They’re an absolute must know to master find-and-replace in your code and they come in handy for string manipulation. Also, they’re incredibly fun to write. <a href="http://regexr.com/">RegExr</a> can help you build, test and also learn this art.</p>
 
 	  ]]></description>
 	</item>

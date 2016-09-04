@@ -10,10 +10,12 @@
       <item>
         <title>Week 2</title>
         
-          <description>&lt;p&gt;Week two!&lt;/p&gt;
+          <description>&lt;h2 id=&quot;what-did-you-do-this-past-week&quot;&gt;What did you do this past week?&lt;/h2&gt;
+&lt;p&gt;Last week has been an introductory week, where not much was going on. It’s the end of week two now, and work is already piling up. We dived right into work. Project 1 specifications were released and the submission has been set for next week, new C++ concepts were introduced, new readings are due for next week.&lt;/p&gt;
+
 </description>
         
-        <pubDate>Sat, 27 Aug 2016 13:00:00 +0000</pubDate>
+        <pubDate>Sat, 27 Aug 2016 17:00:00 +0000</pubDate>
         <link>
         http://gvsi.github.io/cs371p//week-two</link>
         <guid isPermaLink="true">http://gvsi.github.io/cs371p//week-two</guid>
