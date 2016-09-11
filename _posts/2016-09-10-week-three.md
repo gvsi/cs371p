@@ -39,4 +39,4 @@ I'll also try to find a partner for Project 2. I am really keen on working with 
 
 ## Tip of the week
 - Meditation. It's great, and as little as 5 minutes a day helps a lot. [Calm.com](https://www.calm.com/) is a great website to get started.
-- [Intern.supply](intern.supply) helps me keep track of which companies have opened applications for 2017 Software Developer Summer Internships.
+- [Intern.supply](http://www.intern.supply/) helps me keep track of which companies have opened applications for 2017 Software Developer Summer Internships.
