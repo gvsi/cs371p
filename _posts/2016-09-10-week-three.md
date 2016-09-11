@@ -35,6 +35,8 @@ Thankfully, as a Computer Scientist, I tend to keep my social endeavours as litt
 ## What will you do next week?
 Next week I will try to find meaning in the things that I do. There are things that I do everyday that I almost take for granted, and want to find happiness and gratitude in the things that I get to do. This has kept me from being overwhelmed by the many things I have to do.
 
+I'll also try to find a partner for Project 2. I am really keen on working with someone else, so if you're interested, feel free to [contact me](mailto:me@giovannialcantara.com) and we can talk about it.
+
 ## Tip of the week
 - Meditation. It's great, and as little as 5 minutes a day helps a lot. [Calm.com](https://www.calm.com/) is a great website to get started.
 - [Intern.supply](intern.supply) helps me keep track of which companies have opened applications for 2017 Software Developer Summer Internships.
