@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>CS371p Blog</title>
+    <title>Week 3</title>
     <meta name="description" content="CS371p Blog - A blog with my progress with CS371p at UT Austin" />
 
     <meta name="HandheldFriendly" content="True" />
@@ -60,7 +60,7 @@
 
 
 </head>
-<body class="tag-template nav-closed">
+<body class="home-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -79,85 +79,132 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
+        <!-- < default -->
 
+<!-- The comment above "< default" means - insert everything in this file into -->
+    <!-- the [body] of the default.hbs template, which contains our header/footer. -->
 
-<!-- < default}} -->
-<!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
 
-<!-- If we have a tag cover, display that - else blog cover - else nothing -->
-<header class="main-header tag-head " style="background-image: url(/cs371p/assets/images/cover2.jpg) ">
-    <nav class="main-nav overlay clearfix">
+<header class="main-header post-head " style="background-image: url(/cs371p/assets/images/covers/week3.jpeg) ">
+    <nav class="main-nav  overlay  clearfix">
         <a class="blog-logo" href="/cs371p/"><img src="/cs371p/assets/images/logo.png" alt="Blog Logo" /></a>
         
             <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
         
     </nav>
+
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">Week1</h1>
-            <h2 class="page-description">
+            <h1 class="page-title">Week 3</h1>
             
-			    A 1-post collection
+                <h2 class="page-description">Pointers</h2>
             
-            </h2>
         </div>
     </div>
 </header>
 
-<!-- The main content area on the homepage -->
-<main id="content" class="content" role="main">
+<main class="content" role="main">
 
-    <!-- The tag below includes the post loop - partials/loop.hbs -->
-        <!-- Previous/next page links - only displayed on page 2+ -->
-    <div class="extra-pagination inner">
-        
-            <nav class="pagination" role="pagination">
-    
-    <span class="page-number"> Page 1 of 1 </span>
-     
-</nav>
-        
-    </div>
+    <article class="post tag-test tag-content">
 
-    <!-- This is the post loop - each post will be output using this markup -->
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/cs371p/week-one">Week 1</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>Hello, world! This is my first class at UT and UTCS, and I could not be happier that CS 371p taught by professor Downing is the... <a class="read-more" href="/cs371p/week-one">&raquo;</a></p>
+        <section class="post-content">
+
+            <h2 id="what-did-you-do-this-past-week">What did you do this past week?</h2>
+
+<h2 id="whats-in-your-way">What’s in your way?</h2>
+
+<h2 id="what-will-you-do-next-week">What will you do next week?</h2>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+
+
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/cs371p/assets/images/profile.jpg" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/cs371p/author/giovanni'>Giovanni Alcantara</a>
+
+        <section class="post-meta">
+        <!-- <a href='/cs371p/'>Giovanni Alcantara</a> -->
+        <time class="post-date" datetime="2016-08-27">27 Aug 2016</time>
             <!-- [[tags prefix=" on "]] -->
-             
-                on 
+            
+            on
+            
                 
-                    
-                       <a href='/cs371p/tag/week1'>Week1</a>
-                       
+                   <a href='/cs371p/tag/week3'>Week3</a>
                 
             
-            <time class="post-date" datetime="2016-08-27">27 Aug 2016</time>
+            
+        </section>
+        
+        <footer class="post-footer">
+
+            <!-- Everything inside the #author tags pulls data from the author -->
+            <!-- #author-->
+
+            
+            <figure class="author-image">
+                <a class="img" href="/cs371p/author/giovanni" style="background-image: url(/cs371p/assets/images/profile.jpg)"><span class="hidden">'s Picture</span></a>
+            </figure>
+            
+
+            <section class="author">
+                <h4><a href="/cs371p/author/giovanni">Giovanni Alcantara</a></h4>
+
+                
+                    <p> CS exchange student at the University of Texas at Austin</p>
+                
+                <div class="author-meta">
+                    <span class="author-location icon-location"> Austin, TX</span>
+                    <span class="author-link icon-link"><a href="http://gvsi.github.io/cs371p/"> gvsi.github.io/cs371p/</a></span>
+                </div>
+            </section>
+
+            <!-- /author  -->
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="http://twitter.com/share?text=Week 3&amp;url=http://gvsi.github.io/cs371p/week-three"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://gvsi.github.io/cs371p/week-three"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://gvsi.github.io/cs371p/week-three"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+            <!-- Add Disqus Comments -->
+            
+
         </footer>
+
     </article>
-    
-
-    <!-- Previous/next page links - displayed on every page -->
-    
-        <nav class="pagination" role="pagination">
-    
-    <span class="page-number"> Page 1 of 1 </span>
-     
-</nav>
-    
-
 
 </main>
+
+<aside class="read-next">
+
+    <!-- [[! next_post ]] -->
+    
+    <!-- [[! /next_post ]] -->
+    <!-- [[! prev_post ]] -->
+    
+        <a class="read-next-story prev " style="background-image: url(/cs371p/assets/images/covers/week2.jpeg)" href="/cs371p/week-two">
+            <section class="post">
+                <h2>Week 2</h2>
+                <p>What did you do this past week? Last week has been an introductory week, where...</p>
+            </section>
+        </a>
+    
+    <!-- [[! /prev_post ]] -->
+</aside>
+
+<!-- /post -->
+
 
         <footer class="site-footer clearfix">
           <section class="copyright"><a href="/cs371p/">CS371p Blog</a> &copy; 2016</section>

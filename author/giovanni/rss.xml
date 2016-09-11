@@ -12,6 +12,24 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Week 3</title>
+	  <link>/cs371p//week-three</link>
+	  <author>Giovanni Alcantara</author>
+	  <pubDate>2016-08-27T19:00:00+00:00</pubDate>
+	  <guid>/cs371p//week-three</guid>
+	  <description><![CDATA[
+	     <h2 id="what-did-you-do-this-past-week">What did you do this past week?</h2>
+
+<h2 id="whats-in-your-way">What’s in your way?</h2>
+
+<h2 id="what-will-you-do-next-week">What will you do next week?</h2>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Week 2</title>
 	  <link>/cs371p//week-two</link>
 	  <author>Giovanni Alcantara</author>
