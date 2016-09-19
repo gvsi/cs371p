@@ -19,12 +19,28 @@
 	  <guid>/cs371p//week-four</guid>
 	  <description><![CDATA[
 	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+<p>The Netflix project has been taking most of my week.</p>
+
+<p>In class we explored more details about pointers and references. We saw generics in C++ templating, the different types of iterators. We had a talk for a UT alumnus who is now working at Bloomberg.</p>
 
 <h2 id="whats-in-my-way">What’s in my way?</h2>
+<p>I was very surprised by this coursework, but it involves training a recommender system. The task does not really relate to Object-Oriented Programming. The only thing relevant to the course is that it has to be written in C++.</p>
+
+<p>I do not mind the challenge of exploring machine learning in an OOP class. I’ve always been interested in machine learning and data analytics, though C++ is not the best language to write a recommender system. It makes sense for CS 371p which uses Python, and I still see it a bit forced in the context of Object-Oriented Programming, especially considering that no libraries are allowed in the code. And not exclusively machine learning libraries, but linear algebra frameworks that are essential in any learning algorithm are prohibited as well.</p>
+
+<p>Another thing that I found frustrating are the tools that we are using. Boost has been publicised as ‘useful’ for serialization. It took me a few days to learn it, only to discover that support in the UTCS machines, Docker container, and Travis build are lacking. It’s been working on machine as expected, but the location of the libraries in the ‘official’ infrastructure has not been verified by the instructor.</p>
+
+<p>The new Github Classroom set up has been causing some problems as well. It was not building the tests for many students, and it caused me a lot of wasted time trying to troubleshoot, when it was the class account setup that was faulty.</p>
+
+<p>I see the benefits of the set of tools we are using, but it would be great if they could be tested thoroughly before being released to hundreds of students.</p>
 
 <h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+<p>I will be mainly finishing the Netflix project.</p>
+
+<p>I’ll prepare and go for to the CNS Career Fair.</p>
 
 <h2 id="tip-of-the-week">Tip of the week</h2>
+<p><a href="http://habitica.com">Habitica</a> has been motivating me for over 2 years to accomplish small daily productive habits with gamification (e.g. read a few pages from a book, write a daily journal, meditate, read an article from the Hacker News, etc). Check it out!</p>
 
 	  ]]></description>
 	</item>
