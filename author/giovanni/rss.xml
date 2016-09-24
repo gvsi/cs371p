@@ -27,7 +27,7 @@
   <li>C++ should not be at top of your list for machine learning,</li>
   <li>Serialization is great if it works,</li>
   <li>Having an isolated development environment/container like Docker is great if you can get everything set up in it,</li>
-  <li>Don’t share with a single Travis-CI worker with 160 more people, running computationally expensive jobs.</li>
+  <li>Don’t share a single Travis-CI worker with 160 more people, running computationally expensive jobs.</li>
 </ul>
 
 <p>Besides reflecting on Netflix, this week we explored some more C++ concepts, including the different types of iterators and the whole notion of function definition with the weakest possible iterator. We had also had an illuminating talk about software development at JPL.</p>
