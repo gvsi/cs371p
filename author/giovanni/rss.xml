@@ -19,12 +19,28 @@
 	  <guid>/cs371p//week-six</guid>
 	  <description><![CDATA[
 	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+<p>This week we covered more C++ topics. It’s starting to get very hairy with all the funny syntax and behaviors that C++ can exhibit.</p>
+
+<p>I’ve tried going through the examples we covered in class and running similar ones on my machine. I still did very poorly on the last quiz, which covered the execution of different types of constructors.</p>
+
+<p>So here’s a breakdown of what we learned this week:</p>
+
+<ul>
+  <li>iterators and their behavior in different contexts</li>
+  <li>refinement overwriting</li>
+  <li>constructors</li>
+  <li>friends</li>
+  <li>that friends can touch each other privates</li>
+</ul>
 
 <h2 id="whats-in-my-way">What’s in my way?</h2>
+<p>Exam 1 is coming up next week. I have two other exams next week, as well as regular weekly project deadlines, and will need to really schedule my time properly.</p>
 
 <h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+<p>Mostly try to survive. I have started following my review schedule two days ago, and I’m not falling behind yet!</p>
 
 <h2 id="tip-of-the-week">Tip of the week</h2>
+<p><a href="https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview">Hackerrank’s Cracking the Coding Interview</a> has just been published. It contains videos on interview techniques that the author of CTCI filmed, as well as a collection of problems that you can solve on Hackerrank’s online IDE.</p>
 
 	  ]]></description>
 	</item>
