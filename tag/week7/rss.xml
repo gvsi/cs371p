@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>gvsi.github.io/cs371p/</title>
+   
+   <link>http://gvsi.github.io/cs371p/</link>
+   <description>A blog with my progress with CS371p at UT Austin</description>
+   <language>en-uk</language>
+   <managingEditor> Giovanni Alcantara</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Week 7</title>
+	  <link>/cs371p//week-seven</link>
+	  <author>Giovanni Alcantara</author>
+	  <pubDate>2016-10-08T11:00:00+00:00</pubDate>
+	  <guid>/cs371p//week-seven</guid>
+	  <description><![CDATA[
+	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+
+<h2 id="whats-in-my-way">What’s in my way?</h2>
+
+<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
