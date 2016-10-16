@@ -19,12 +19,18 @@
 	  <guid>/cs371p//week-eight</guid>
 	  <description><![CDATA[
 	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+<p>This week I started working on the Allocator project. I haven’t done much in terms of coding yet, as setting up the infrastructure took me a while. Hopefully I will be finished by the end of the weekend.</p>
+
+<p>In class we covered some aspects of arrays in C++, we clarified some details about the heap and the stack, and started exploring the implementation of vectors.</p>
 
 <h2 id="whats-in-my-way">What’s in my way?</h2>
+<p>The two CS projects due next week are my priority at the moment. I always hope for a smooth progress with coding projects, but eventually always end up being stuck somewhere. That’s part of learning, clearly, but I hate when it happens. And I hate knowing that it will happen, whether I want it or not.</p>
 
 <h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+<p>Next week I’ll be working on CS projects and a presentation for a startup competition.</p>
 
 <h2 id="tip-of-the-week">Tip of the week</h2>
+<p><a href="https://www.pexels.com">Pexels</a>, a site with beautiful, free stock images.</p>
 
 	  ]]></description>
 	</item>
