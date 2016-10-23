@@ -8,6 +8,22 @@
     
       
       <item>
+        <title>Week 9</title>
+        
+          <description>&lt;h2 id=&quot;what-did-i-do-this-past-week&quot;&gt;What did I do this past week?&lt;/h2&gt;
+&lt;p&gt;This week I finished the Allocator project (I was done with the coding part very early, but put off writing the unit tests until the end). In class we finished our custom implementation of &lt;code class=&quot;highlighter-rouge&quot;&gt;vector&lt;/code&gt;, which seemed straightforward.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 23 Oct 2016 16:00:00 +0000</pubDate>
+        <link>
+        http://gvsi.github.io/cs371p//week-nine</link>
+        <guid isPermaLink="true">http://gvsi.github.io/cs371p//week-nine</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Week 8</title>
         
           <description>&lt;h2 id=&quot;what-did-i-do-this-past-week&quot;&gt;What did I do this past week?&lt;/h2&gt;
