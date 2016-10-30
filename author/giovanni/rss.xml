@@ -12,6 +12,32 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Week 10</title>
+	  <link>/cs371p//week-ten</link>
+	  <author>Giovanni Alcantara</author>
+	  <pubDate>2016-10-29T21:00:00+00:00</pubDate>
+	  <guid>/cs371p//week-ten</guid>
+	  <description><![CDATA[
+	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+<p>It baffles my mind that this was Week 10 of Fall 2016. It feels like a few days ago that started my exchange year abroad at UT.</p>
+
+<p>This week has been relatively easy. Not much going on, apart from introduction to the next project, Darwin. We had one talk on Wednesday from UTCS alumni at Pariveda, and an event for UTCS 50th Anniversary was running on Thursday, which led to class being cancelled.</p>
+
+<p>I started the Darwin project with my partner, and despite having only met once so far and for only a few hours, I think we have a good understanding of the requirements, we have laid out our idea for the software architecture that we want to have in place, and have set plans to meet this weekend.</p>
+
+<h2 id="whats-in-my-way">What’s in my way?</h2>
+<p>Course registrations. Courses I want to take next semester are closed/waitlisted. Despite being a junior, my first registration day is very late because I’m an exchange student and do not have UT credits (from which the schedule is based on) except for the ones of this semester. So, for registration purposes, I’m a freshman. Hopefully my advisor will be able to help me out.</p>
+
+<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+<p>I’ll work on Darwin and register for classes.</p>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+<p><a href="cmhc.utexas.edu">UT Counseling and Mental Health Center</a>. Mental health is incredibly important, and the people at CMHC are doing a great job! Check them out if you simply need someone to talk to or are going through a difficult period.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Week 9</title>
 	  <link>/cs371p//week-nine</link>
 	  <author>Giovanni Alcantara</author>
