@@ -8,6 +8,22 @@
     
       
       <item>
+        <title>Week 11</title>
+        
+          <description>&lt;h2 id=&quot;what-did-i-do-this-past-week&quot;&gt;What did I do this past week?&lt;/h2&gt;
+&lt;p&gt;This week we finished our custom implementation of vector by integrating the concept of rvalue references in the parameters of the constructor and the copy assignment. We also discussed how we can cast variables to rvalues with the use of the &lt;code class=&quot;highlighter-rouge&quot;&gt;move&lt;/code&gt; semantics.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 07 Nov 2016 11:00:00 +0000</pubDate>
+        <link>
+        http://gvsi.github.io/cs371p//week-eleven</link>
+        <guid isPermaLink="true">http://gvsi.github.io/cs371p//week-eleven</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Week 10</title>
         
           <description>&lt;h2 id=&quot;what-did-i-do-this-past-week&quot;&gt;What did I do this past week?&lt;/h2&gt;

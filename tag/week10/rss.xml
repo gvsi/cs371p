@@ -12,6 +12,32 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Week 11</title>
+	  <link>/cs371p//week-eleven</link>
+	  <author>Giovanni Alcantara</author>
+	  <pubDate>2016-11-07T11:00:00+00:00</pubDate>
+	  <guid>/cs371p//week-eleven</guid>
+	  <description><![CDATA[
+	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+<p>This week we finished our custom implementation of vector by integrating the concept of rvalue references in the parameters of the constructor and the copy assignment. We also discussed how we can cast variables to rvalues with the use of the <code class="highlighter-rouge">move</code> semantics.</p>
+
+<p>We then covered the different types of variables in C++ (local, global, class and their static counterparts).</p>
+
+<p>This weekend has been intense! I participated to the <a href="3daystartup.org">3 Day Startup</a> program. My idea (<a href="mentuit.com">Mentuit</a>) was selected as one of the projects of the weekend, and I got to work on it with other talented students. I didn’t much sleep, but it was an incredibly rewarding experience, and I definitely recommend it to anyone interested in startups and entrepreneurship.</p>
+
+<h2 id="whats-in-my-way">What’s in my way?</h2>
+<p>Lack of sleep. I need to recover from this weekend. Hopefully, I’ll be fully recovered in a couple of days.</p>
+
+<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+<p>Start working on Life.</p>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+<p><a href="3daystartup.org">3 Day Startup</a>, seriously, check it out! They hold many events in different cities. Also, it all started here in Austin, TX, and it’s now an international movement!</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Week 10</title>
 	  <link>/cs371p//week-ten</link>
 	  <author>Giovanni Alcantara</author>
