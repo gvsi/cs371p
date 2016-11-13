@@ -12,6 +12,30 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Week 12</title>
+	  <link>/cs371p//week-twelve</link>
+	  <author>Giovanni Alcantara</author>
+	  <pubDate>2016-11-12T23:00:00+00:00</pubDate>
+	  <guid>/cs371p//week-twelve</guid>
+	  <description><![CDATA[
+	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+<p>This past week I started and almost completed the last project with my partner. It did not go as smoothly as it did with Darwin, but we got it working at the end. We got stuck in the allocation of the cells in the heap, but besides that, the implementation was quite straightforward. We’re planning on writing unit tests early next week.</p>
+
+<p>In class, we finally covered the core part of the Object-Oriented language paradigm: inheritance. I find it amusing how it’s Week 11 and we’re barely scratching OOP concepts in class. I feel that most of our time spent in class focuses on C++ minutiae and details. I actually don’t mind this, and do think that it will come in useful when working in the industry.</p>
+
+<h2 id="whats-in-my-way">What’s in my way?</h2>
+<p>Not much has been in my way lately.</p>
+
+<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+<p>Next week I’ll be wrapping things up with Life, and hopefully start revising for the final test.</p>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+<p><a href="https://www.meteor.com/">Meteor</a> is an amazing full-stack Javascript framework. It’s amazing for fast prototyping. I’ve used it for two big-scale web applications now, and I could not recommend it enough if you want to build quick, reactive, scalable web apps.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Week 11</title>
 	  <link>/cs371p//week-eleven</link>
 	  <author>Giovanni Alcantara</author>
@@ -286,42 +310,6 @@ Now, two other companies have decided to schedule interviews next week because o
   <li>Meditation. It’s great, and as little as 5 minutes a day helps a lot. <a href="https://www.calm.com/">Calm.com</a> is a great website to get started.</li>
   <li><a href="http://www.intern.supply/">Intern.supply</a> helps me keep track of which companies have opened applications for 2017 Software Developer Summer Internships.</li>
 </ul>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Week 2</title>
-	  <link>/cs371p//week-two</link>
-	  <author>Giovanni Alcantara</author>
-	  <pubDate>2016-09-04T17:00:00+00:00</pubDate>
-	  <guid>/cs371p//week-two</guid>
-	  <description><![CDATA[
-	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
-<p>Last week has been an introductory week, where not much was going on. It’s the end of week two now, and work is already piling up. We dived right into work. Project 1 specifications were released and the submission has been set for next week, new C++ concepts were introduced, new readings are due for next week.</p>
-
-<p>The project is what has taken most of my time this week. Not so much the algorithmic side of it. A great deal of optimizing the code really boils down to a standard dynamic programming problem, with memoization in the form of cache. What really took most of my time is the setting up the infrastructure and the whole suite of tools that accompany the task.</p>
-
-<p>These included setting up the Docker container, writing unit tests with <code class="highlighter-rouge">gtest</code> and acceptance tests, documenting the code for <code class="highlighter-rouge">doxygen</code>, make sure all the targets in the <code class="highlighter-rouge">makefile</code> are working as expected, hooking up <code class="highlighter-rouge">Travis-CI</code> with the repository, keeping the list of Github issues updated, making sure the source files have been formatted with <code class="highlighter-rouge">clang-format</code>.</p>
-
-<p>It’s been a ride, but while reviewing the files for submission I found myself with a wide smile stamped on my face.</p>
-
-<p>In class we have covered the different between <code class="highlighter-rouge">l-values</code> and <code class="highlighter-rouge">r-values</code>, exception handling with a discussion of the advantages and disadvantages between <code class="highlighter-rouge">throw</code>s, error flags in the form global variables or local variables being passed as references.</p>
-
-<h2 id="whats-in-my-way">What’s in my way?</h2>
-<p>Me. I’m in my own way.</p>
-
-<p>Working on the project, I’ve been incredibly frustrated when things would not run as expected. Getting all the tools to work is a tedious process, and thinking “Man, I could be working on some other stuff if this thing worked as expected” really gets in my head sometimes.</p>
-
-<p>I also cannot put my computer to sleep when stuff is just not working. I do realize that taking a break helps clear one’s mind, but I often find myself working until “I fix this one thing”, which eventually leads to other things breaking on the way, and being stuck in a vicious cycle.</p>
-
-<p>What I gradually learned to realize is that getting stuck is the only way to learn, and this helped me have a different approach when working.</p>
-
-<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
-<p>It’s that period of the year when companies hire for summer internships. Next week I would like to start revising algorithms and data structures.</p>
-
-<h2 id="tip-of-the-week">Tip of the week</h2>
-<p>Learn your regular expressions. They’re one thing thing that I constantly find using in one way or another when working on projects or programming assignments. They’re an absolute must know to master find-and-replace in your code and they come in handy for string manipulation. Also, they’re incredibly fun to write. <a href="http://regexr.com/">RegExr</a> can help you build, test and also learn this art.</p>
 
 	  ]]></description>
 	</item>

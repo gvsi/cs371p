@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>gvsi.github.io/cs371p/</title>
+   
+   <link>http://gvsi.github.io/cs371p/</link>
+   <description>A blog with my progress with CS371p at UT Austin</description>
+   <language>en-uk</language>
+   <managingEditor> Giovanni Alcantara</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Week 12</title>
+	  <link>/cs371p//week-twelve</link>
+	  <author>Giovanni Alcantara</author>
+	  <pubDate>2016-11-12T23:00:00+00:00</pubDate>
+	  <guid>/cs371p//week-twelve</guid>
+	  <description><![CDATA[
+	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+<p>This past week I started and almost completed the last project with my partner. It did not go as smoothly as it did with Darwin, but we got it working at the end. We got stuck in the allocation of the cells in the heap, but besides that, the implementation was quite straightforward. We’re planning on writing unit tests early next week.</p>
+
+<p>In class, we finally covered the core part of the Object-Oriented language paradigm: inheritance. I find it amusing how it’s Week 11 and we’re barely scratching OOP concepts in class. I feel that most of our time spent in class focuses on C++ minutiae and details. I actually don’t mind this, and do think that it will come in useful when working in the industry.</p>
+
+<h2 id="whats-in-my-way">What’s in my way?</h2>
+<p>Not much has been in my way lately.</p>
+
+<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+<p>Next week I’ll be wrapping things up with Life, and hopefully start revising for the final test.</p>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+<p><a href="https://www.meteor.com/">Meteor</a> is an amazing full-stack Javascript framework. It’s amazing for fast prototyping. I’ve used it for two big-scale web applications now, and I could not recommend it enough if you want to build quick, reactive, scalable web apps.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

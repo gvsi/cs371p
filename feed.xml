@@ -8,6 +8,22 @@
     
       
       <item>
+        <title>Week 12</title>
+        
+          <description>&lt;h2 id=&quot;what-did-i-do-this-past-week&quot;&gt;What did I do this past week?&lt;/h2&gt;
+&lt;p&gt;This past week I started and almost completed the last project with my partner. It did not go as smoothly as it did with Darwin, but we got it working at the end. We got stuck in the allocation of the cells in the heap, but besides that, the implementation was quite straightforward. We’re planning on writing unit tests early next week.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 12 Nov 2016 23:00:00 +0000</pubDate>
+        <link>
+        http://gvsi.github.io/cs371p//week-twelve</link>
+        <guid isPermaLink="true">http://gvsi.github.io/cs371p//week-twelve</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Week 11</title>
         
           <description>&lt;h2 id=&quot;what-did-i-do-this-past-week&quot;&gt;What did I do this past week?&lt;/h2&gt;
