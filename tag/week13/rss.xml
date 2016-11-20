@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>gvsi.github.io/cs371p/</title>
+   
+   <link>http://gvsi.github.io/cs371p/</link>
+   <description>A blog with my progress with CS371p at UT Austin</description>
+   <language>en-uk</language>
+   <managingEditor> Giovanni Alcantara</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Week 13</title>
+	  <link>/cs371p//week-thirteen</link>
+	  <author>Giovanni Alcantara</author>
+	  <pubDate>2016-11-19T23:00:00+00:00</pubDate>
+	  <guid>/cs371p//week-thirteen</guid>
+	  <description><![CDATA[
+	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+<p>Earlier this week I wrapped things up with Life, and finally turned the last project in. It feels very satisfying to submit the last assignment, though Test #2 is just a couple of weeks away.
+In class we covered more details about inheritance, reviewed dynamic binding and the <code class="highlighter-rouge">virtual</code> keyword, and saw the motivation behind the use of abstract classes compared to concrete inheritance.</p>
+
+<h2 id="whats-in-my-way">What’s in my way?</h2>
+<p>Exams. Luck wanted me to have three exams scheduled on Thursday, December 1st. And that includes Object-Oriented Programming. If I don’t start revising during the Thanksgiving break, it will be bad.</p>
+
+<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+<p>Enjoy a break, and start revising.</p>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+<p><a href="http://sleepyti.me/">sleepyti.me</a> helps you calculate the best time to set your morning alarm, so that you wake up in between sleep cycles.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

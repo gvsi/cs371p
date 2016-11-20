@@ -8,6 +8,23 @@
     
       
       <item>
+        <title>Week 13</title>
+        
+          <description>&lt;h2 id=&quot;what-did-i-do-this-past-week&quot;&gt;What did I do this past week?&lt;/h2&gt;
+&lt;p&gt;Earlier this week I wrapped things up with Life, and finally turned the last project in. It feels very satisfying to submit the last assignment, though Test #2 is just a couple of weeks away.
+In class we covered more details about inheritance, reviewed dynamic binding and the &lt;code class=&quot;highlighter-rouge&quot;&gt;virtual&lt;/code&gt; keyword, and saw the motivation behind the use of abstract classes compared to concrete inheritance.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 19 Nov 2016 23:00:00 +0000</pubDate>
+        <link>
+        http://gvsi.github.io/cs371p//week-thirteen</link>
+        <guid isPermaLink="true">http://gvsi.github.io/cs371p//week-thirteen</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Week 12</title>
         
           <description>&lt;h2 id=&quot;what-did-i-do-this-past-week&quot;&gt;What did I do this past week?&lt;/h2&gt;

@@ -12,6 +12,29 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Week 13</title>
+	  <link>/cs371p//week-thirteen</link>
+	  <author>Giovanni Alcantara</author>
+	  <pubDate>2016-11-19T23:00:00+00:00</pubDate>
+	  <guid>/cs371p//week-thirteen</guid>
+	  <description><![CDATA[
+	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
+<p>Earlier this week I wrapped things up with Life, and finally turned the last project in. It feels very satisfying to submit the last assignment, though Test #2 is just a couple of weeks away.
+In class we covered more details about inheritance, reviewed dynamic binding and the <code class="highlighter-rouge">virtual</code> keyword, and saw the motivation behind the use of abstract classes compared to concrete inheritance.</p>
+
+<h2 id="whats-in-my-way">What’s in my way?</h2>
+<p>Exams. Luck wanted me to have three exams scheduled on Thursday, December 1st. And that includes Object-Oriented Programming. If I don’t start revising during the Thanksgiving break, it will be bad.</p>
+
+<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
+<p>Enjoy a break, and start revising.</p>
+
+<h2 id="tip-of-the-week">Tip of the week</h2>
+<p><a href="http://sleepyti.me/">sleepyti.me</a> helps you calculate the best time to set your morning alarm, so that you wake up in between sleep cycles.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Week 12</title>
 	  <link>/cs371p//week-twelve</link>
 	  <author>Giovanni Alcantara</author>
@@ -269,47 +292,6 @@ Now, two other companies have decided to schedule interviews next week because o
 
 <h2 id="tip-of-the-week">Tip of the week</h2>
 <p><a href="http://habitica.com">Habitica</a> has been motivating me for over 2 years to accomplish small daily productive habits with gamification (e.g. read a few pages from a book, write a daily journal, meditate, read an article from the Hacker News, etc). Check it out!</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Week 3</title>
-	  <link>/cs371p//week-three</link>
-	  <author>Giovanni Alcantara</author>
-	  <pubDate>2016-09-10T19:00:00+00:00</pubDate>
-	  <guid>/cs371p//week-three</guid>
-	  <description><![CDATA[
-	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
-<p>We’re barely at the beginning of the semester, and time is gradually becoming a very precious resource.</p>
-
-<p>The first project deadline was this week, and I think I handled my priorities very well, having worked on most of the tasks early.</p>
-
-<p>This week we covered pointers and references in C++. It gets very verbose and confusing at times, but as professor Downing said, the key to understanding these concepts really boils down to sitting at your desk and trying it out yourself.</p>
-
-<p><img src="https://imgs.xkcd.com/comics/pointers.png" alt="Relevant " /></p>
-
-<p>This week I’ve also been to the Engineering EXPO. It’s my first carrier fair in the US, and it’s really an event that does not compare to what we have in the UK. Carrier fairs across the pond are of much smaller scale, and it’s mostly an opportunity for employers to publicize their brand, rather than an opportunity to actively hire talent.</p>
-
-<p>It went very well, and managed to get a few interviews lined up for next week. When I didn’t have the chance to achieve something concrete, I still treasured it as an opportunity to talk to employers and practice the art of talking and showing what I’m passionate about.</p>
-
-<p>This week I also had the opportunity to attend a talk by <a href="https://en.wikipedia.org/wiki/Robert_Metcalfe">Bob Metcalfe</a> as part of the Longhorn Startup Seminar class I am taking. It was a great talk, and touched on some decisions I have been struggling with: “should I focus on getting a job at a tech company or try to start my own thing?”</p>
-
-<h2 id="whats-in-my-way">What’s in my way?</h2>
-<p>Too many things to do. Coursework is taking most of my time. Having a part-time job where I get to code is great, but also very time consuming. Practicing for interviews is also at the top of my priority list, but I haven’t been able to focus on it more than I wanted.</p>
-
-<p>Thankfully, as a Computer Scientist, I tend to keep my social endeavours as little as possible, but it’s helped my sanity to go out and meet some friends.</p>
-
-<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
-<p>Next week I will try to find meaning in the things that I do. There are things that I do everyday that I almost take for granted, and want to find happiness and gratitude in the things that I get to do. This has kept me from being overwhelmed by the many things I have to do.</p>
-
-<p>I’ll also try to find a partner for Project 2. I am really keen on working with someone else, so if you’re interested, feel free to <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#109;&#101;&#064;&#103;&#105;&#111;&#118;&#097;&#110;&#110;&#105;&#097;&#108;&#099;&#097;&#110;&#116;&#097;&#114;&#097;&#046;&#099;&#111;&#109;">contact me</a> and we can talk about it.</p>
-
-<h2 id="tip-of-the-week">Tip of the week</h2>
-<ul>
-  <li>Meditation. It’s great, and as little as 5 minutes a day helps a lot. <a href="https://www.calm.com/">Calm.com</a> is a great website to get started.</li>
-  <li><a href="http://www.intern.supply/">Intern.supply</a> helps me keep track of which companies have opened applications for 2017 Software Developer Summer Internships.</li>
-</ul>
 
 	  ]]></description>
 	</item>
