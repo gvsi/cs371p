@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>Giovanni Alcantara - CS371p Blog</title>
+    <title>CS371p Blog</title>
     <meta name="description" content="CS371p Blog - A blog with my progress with CS371p at UT Austin" />
 
     <meta name="HandheldFriendly" content="True" />
@@ -60,7 +60,7 @@
 
 
 </head>
-<body class="paged archive-template nav-closed">
+<body class="tag-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -68,7 +68,7 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-        <li class="nav-home  nav-current" role="presentation"><a href="/cs371p/">Home</a></li>
+        <li class="nav-home " role="presentation"><a href="/cs371p/">Home</a></li>
         <li class="nav-author " role="presentation"><a href="/cs371p/author/giovanni">Author</a></li>
     </ul>
     <a class="subscribe-button icon-feed" href="/cs371p/feed.xml">Subscribe</a>
@@ -79,12 +79,14 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < default -->
+        <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
+
+
+<!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- The big featured header  -->
-<header class="main-header "
-        style="background-image: url(/cs371p/assets/images/cover4.jpg) ">
+<!-- If we have a tag cover, display that - else blog cover - else nothing -->
+<header class="main-header tag-head " style="background-image: url(/cs371p/assets/images/cover2.jpg) ">
     <nav class="main-nav overlay clearfix">
         <a class="blog-logo" href="/cs371p/"><img src="/cs371p/assets/images/logo.png" alt="Blog Logo" /></a>
         
@@ -93,17 +95,14 @@
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">CS371p Blog</h1>
-            <h2 class="page-description">A blog with my progress with CS371p at UT Austin</h2>
-            <div>
- 			        <figure class="author-image" style="top: 120px;">
-                <a class="img" href="/cs371p/author/giovanni" style="background-image: url(/cs371p/assets/images/profile.jpg)"></a>
-              </figure>
-              <h2 class="page-description" style="margin-top: 160px; font-size: 1.5rem; text-decoration: none">A blog by <a href="/cs371p/author/giovanni" style="color: #d6edff; text-decoration: none; cursor: pointer">Giovanni Alcantara</a></h2>
-            </div>
+            <h1 class="page-title">Finalweek</h1>
+            <h2 class="page-description">
+            
+			    A 1-post collection
+            
+            </h2>
         </div>
     </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
 <!-- The main content area on the homepage -->
@@ -115,11 +114,7 @@
         
             <nav class="pagination" role="pagination">
     
-        
-            <a class="newer-posts" href="/cs371p/page2/" title="Previous Page">&laquo; Newer Posts</a>
-      
-    
-    <span class="page-number"> Page 3 of 3 </span>
+    <span class="page-number"> Page 1 of 1 </span>
      
 </nav>
         
@@ -129,10 +124,10 @@
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/cs371p/week-four">Week 4</a></h2>
+            <h2 class="post-title"><a href="/cs371p/final-week">Final Week</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>What did I do this past week? The Netflix project has been taking most of my week. In class we explored more details about pointers and... <a class="read-more" href="/cs371p/week-four">&raquo;</a></p>
+            <p>Final thoughts After Thursday’s final exam, my first exchange semester at UT Austin is coming to a close. It’s been an incredible ride, and part of... <a class="read-more" href="/cs371p/final-week">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <img class="author-thumb" src="/cs371p/assets/images/profile.jpg" alt="Author image" nopin="nopin" />
@@ -143,83 +138,11 @@
                 on 
                 
                     
-                       <a href='/cs371p/tag/week4'>Week4</a>
+                       <a href='/cs371p/tag/finalweek'>Finalweek</a>
                        
                 
             
-            <time class="post-date" datetime="2016-09-18">18 Sep 2016</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/cs371p/week-three">Week 3</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>What did I do this past week? We’re barely at the beginning of the semester, and time is gradually becoming a very precious resource. The first... <a class="read-more" href="/cs371p/week-three">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/cs371p/assets/images/profile.jpg" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/cs371p/author/giovanni'>Giovanni Alcantara</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/cs371p/tag/week3'>Week3</a>
-                       
-                
-            
-            <time class="post-date" datetime="2016-09-10">10 Sep 2016</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/cs371p/week-two">Week 2</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>What did I do this past week? Last week has been an introductory week, where not much was going on. It’s the end of week two... <a class="read-more" href="/cs371p/week-two">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/cs371p/assets/images/profile.jpg" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/cs371p/author/giovanni'>Giovanni Alcantara</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/cs371p/tag/week2'>Week2</a>
-                       
-                
-            
-            <time class="post-date" datetime="2016-09-04">04 Sep 2016</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/cs371p/week-one">Week 1</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>Hello, world! This is my first class at UT and UTCS, and I could not be happier that CS 371p taught by professor Downing is the... <a class="read-more" href="/cs371p/week-one">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/cs371p/assets/images/profile.jpg" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/cs371p/author/giovanni'>Giovanni Alcantara</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/cs371p/tag/week1'>Week1</a>
-                       
-                
-            
-            <time class="post-date" datetime="2016-08-27">27 Aug 2016</time>
+            <time class="post-date" datetime="2016-12-04">04 Dec 2016</time>
         </footer>
     </article>
     
@@ -228,18 +151,13 @@
     
         <nav class="pagination" role="pagination">
     
-        
-            <a class="newer-posts" href="/cs371p/page2/" title="Previous Page">&laquo; Newer Posts</a>
-      
-    
-    <span class="page-number"> Page 3 of 3 </span>
+    <span class="page-number"> Page 1 of 1 </span>
      
 </nav>
     
 
 
 </main>
-
 
         <footer class="site-footer clearfix">
           <section class="copyright"><a href="/cs371p/">CS371p Blog</a> &copy; 2016</section>

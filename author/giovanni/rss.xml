@@ -12,6 +12,23 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Final Week</title>
+	  <link>/cs371p//final-week</link>
+	  <author>Giovanni Alcantara</author>
+	  <pubDate>2016-12-04T22:00:00+00:00</pubDate>
+	  <guid>/cs371p//final-week</guid>
+	  <description><![CDATA[
+	     <h2 id="final-thoughts">Final thoughts</h2>
+<p>After Thursday’s final exam, my first exchange semester at UT Austin is coming to a close. It’s been an incredible ride, and part of this is thanks for Prof. Downing’s OOP class.
+This course was not easy, but that’s what made it incredibly rewarding at the end. Learning details of C++ and proper Object-Oriented design seems like a trival task, but it’s what I believe will set apart successful software engineers in the industry.
+The final exam was not as bad as I expected–I panicked a bit going through the questions, but keeping a calm attitude, I did manage to tackle each problem. These were testing topics ranging from inherance, to design pattern design (singleton) and general C++ classes implementation.
+Prof. Downing is easily one of the best professor I’ve ever had. He showed incredible passion, combined with his  great understanding of the subject and an entrenched desire to shape the next generation of successful software engineers. He strives to make his courses industry-oriented, with a focus on using the standard tools currently in use in companies’ development workflows.
+Overall, this was a great course, and would highly recommend it to anyone doing a Computer Science/Software Engineering degree.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Week 13</title>
 	  <link>/cs371p//week-thirteen</link>
 	  <author>Giovanni Alcantara</author>
@@ -258,40 +275,6 @@ Now, two other companies have decided to schedule interviews next week because o
 
 <h2 id="tip-of-the-week">Tip of the week</h2>
 <p><a href="https://hadoop.apache.org/">Hadoop</a>. We talked about MapReduce in class, and if you’re really interested in distributed computation, you should consider learning the framework inspired by the work at Google. Also, I’m taking a Big Data Programming class which teaches Hadoop and Spark this semester, and you should check that out as well.</p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Week 4</title>
-	  <link>/cs371p//week-four</link>
-	  <author>Giovanni Alcantara</author>
-	  <pubDate>2016-09-18T22:00:00+00:00</pubDate>
-	  <guid>/cs371p//week-four</guid>
-	  <description><![CDATA[
-	     <h2 id="what-did-i-do-this-past-week">What did I do this past week?</h2>
-<p>The Netflix project has been taking most of my week.</p>
-
-<p>In class we explored more details about pointers and references. We saw generics in C++ templating, the different types of iterators. We had a talk from a UT alumnus who is now working at Bloomberg.</p>
-
-<h2 id="whats-in-my-way">What’s in my way?</h2>
-<p>I was very surprised by this coursework, as it involves training a recommender system with over 2 GB of data. The task does not really relate to Object-Oriented Programming. The only thing relevant to the course is that it has to be written in C++.</p>
-
-<p>I do not mind the challenge of exploring machine learning in an OOP class. I’ve always been interested in machine learning and data analytics. I think it makes sense for CS373 (which uses Python), and I still see it a bit forced in the context of Object-Oriented Programming, especially considering that no libraries are allowed in the code. And not exclusively machine learning libraries, but linear algebra frameworks that are essential in any learning algorithm–they are not allowed either.</p>
-
-<p>Another thing that I found frustrating are the tools that we are using. Boost has been recommended for data serialization. It took me hours to learn it, only to discover that support in the UTCS machines, Docker container, and Travis build are lacking. It’s been working on my machine as expected, but the location of the libraries in the ‘official’ infrastructure has not been verified by the instructor.</p>
-
-<p>The new Github Classroom set up has been causing some problems as well. It was not building the tests for many students, and it caused me a lot of wasted time trying to troubleshoot, when it was the class account setup that was faulty.</p>
-
-<p>I see the benefits of the set of tools we are using, but it would be great if they could be tested thoroughly before being released to hundreds of students.</p>
-
-<h2 id="what-will-i-do-next-week">What will I do next week?</h2>
-<p>I will be mainly finishing the Netflix project.</p>
-
-<p>I’ll prepare and go for to the CNS Career Fair.</p>
-
-<h2 id="tip-of-the-week">Tip of the week</h2>
-<p><a href="http://habitica.com">Habitica</a> has been motivating me for over 2 years to accomplish small daily productive habits with gamification (e.g. read a few pages from a book, write a daily journal, meditate, read an article from the Hacker News, etc). Check it out!</p>
 
 	  ]]></description>
 	</item>
