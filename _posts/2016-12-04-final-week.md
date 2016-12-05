@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/images/covers/week09.jpeg'
 title: Final Week
 subtitle: Final
-date:   2016-12-104 22:00:00
+date:   2016-12-04 22:00:00
 tags: finalweek
 subclass: 'post tag-test tag-content'
 categories: 'giovanni'
